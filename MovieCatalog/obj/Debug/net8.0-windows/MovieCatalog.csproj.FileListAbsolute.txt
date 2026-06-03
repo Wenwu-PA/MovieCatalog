@@ -1,0 +1,17 @@
+C:\Users\Wenwu\Desktop\MovieCatalog\bin\Debug\net8.0-windows\MovieCatalog.exe
+C:\Users\Wenwu\Desktop\MovieCatalog\bin\Debug\net8.0-windows\MovieCatalog.deps.json
+C:\Users\Wenwu\Desktop\MovieCatalog\bin\Debug\net8.0-windows\MovieCatalog.runtimeconfig.json
+C:\Users\Wenwu\Desktop\MovieCatalog\bin\Debug\net8.0-windows\MovieCatalog.dll
+C:\Users\Wenwu\Desktop\MovieCatalog\bin\Debug\net8.0-windows\MovieCatalog.pdb
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.csproj.GenerateResource.cache
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.AssemblyInfoInputs.cache
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.AssemblyInfo.cs
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.dll
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\refint\MovieCatalog.dll
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.pdb
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\MovieCatalog.genruntimeconfig.cache
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\ref\MovieCatalog.dll
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\VideoLibrary.Form1.resources
+C:\Users\Wenwu\Desktop\MovieCatalog\obj\Debug\net8.0-windows\VideoLibrary.PasswordForm.resources
